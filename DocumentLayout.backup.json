@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pitso\\Documents\\PRG182.Project\\FitForge_PRG182\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{815ED1F0-7B02-414E-AB8B-40EB49E3D6A6}|FitForge_PRG182.csproj|c:\\users\\pitso\\documents\\prg182.project\\fitforge_prg182\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815ED1F0-7B02-414E-AB8B-40EB49E3D6A6}|FitForge_PRG182.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pitso\\Documents\\PRG182.Project\\FitForge_PRG182\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pitso\\Documents\\PRG182.Project\\FitForge_PRG182\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAANAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:39:51.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

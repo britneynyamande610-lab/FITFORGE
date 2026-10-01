@@ -1,0 +1,8 @@
+C:\Users\pitso\Documents\PRG182.Project\FitForge_PRG182\bin\Debug\FitForge_PRG182.exe.config
+C:\Users\pitso\Documents\PRG182.Project\FitForge_PRG182\bin\Debug\FitForge_PRG182.exe
+C:\Users\pitso\Documents\PRG182.Project\FitForge_PRG182\bin\Debug\FitForge_PRG182.pdb
+C:\Users\pitso\Documents\PRG182.Project\FitForge_PRG182\obj\Debug\FitForge_PRG182.csproj.AssemblyReference.cache
+C:\Users\pitso\Documents\PRG182.Project\FitForge_PRG182\obj\Debug\FitForge_PRG182.csproj.CoreCompileInputs.cache
+C:\Users\pitso\Documents\PRG182.Project\FitForge_PRG182\obj\Debug\FitForge_PRG182.exe
+C:\Users\pitso\Documents\PRG182.Project\FitForge_PRG182\obj\Debug\FitForge_PRG182.pdb
+C:\Users\pitso\Documents\PRG182.Project\FitForge_PRG182\obj\Debug\FitForge_PRG182.exe.config
